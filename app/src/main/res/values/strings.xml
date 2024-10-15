@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Угадай столицу</string>
+    <string-array name="difficulties">
+        <item>Легкий</item>
+        <item>Средний</item>
+        <item>Сложный</item>
+    </string-array>
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "401808626231",
+    "firebase_url": "https://captl-a246e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "captl-a246e",
+    "storage_bucket": "captl-a246e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401808626231:android:24a468ae281332389e25b2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgQhihQtifDpOniAFfivvaYC_EXcozLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401808626231:android:27ed84bf1e03f51e9e25b2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgQhihQtifDpOniAFfivvaYC_EXcozLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
